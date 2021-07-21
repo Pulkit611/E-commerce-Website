@@ -1,0 +1,2 @@
+# E-commerce-Website
+It is a E-commerce website in which the user can enter as a guest mode or as a logged in user.According to you logged in situation ,your final cart will be displayed .You can add items in your cart ,have a glance at them before placing order and then finally it is Paypal-payment API integrated through which one can pay using paypal and when the order is processed and payment is done ,you will return back to home screen to continue shopping
